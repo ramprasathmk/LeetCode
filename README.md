@@ -10,6 +10,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ramprasathmk/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ramprasathmk/LeetCode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ramprasathmk/LeetCode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ramprasathmk/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
