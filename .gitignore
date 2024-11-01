@@ -2,6 +2,5 @@
 .idea
 __pycache__/
 __init__.py
-test.py
 Solution.py
-SolutionTest.py
+Test.py
