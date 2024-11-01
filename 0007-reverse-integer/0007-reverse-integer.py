@@ -1,11 +1,13 @@
 class Solution:
     def reverse(self, x: int) -> int:
-
-        if not isinstance(x, int):
-            raise Exception(f"Invalid user type for variable `x`")
-
         INT_MIN: int = -2**31
         INT_MAX: int = 2**31 - 1
+
+        if not isinstance(x, int):
+            raise Exception(f"Invalid Type, {x=} must be an Integer.")
+        
+        if x not in range(INT_MIN, INT_MAX+1):
+            raise Exception(f"{x=} is not in [ {INT_MIN} <= x <= {INT_MAX} ]")
 
         result: int = 0
 
@@ -23,3 +25,4 @@ class Solution:
 
         return sign * result        
     
+        
