@@ -6,7 +6,7 @@
 # Ignore IDE/workspace deps
 .git
 .idea
-.vacode
+.vscode
 
 # Ignore Python cache deps
 __pycache__
