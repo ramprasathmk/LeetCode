@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ramprasathmk/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
