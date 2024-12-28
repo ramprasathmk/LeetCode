@@ -1,6 +1,16 @@
-.vscode
+# Ignore files and folders
+
+# Ignore specific files
+.env
+
+# Ignore IDE/workspace deps
+.git
 .idea
-__pycache__/
-__init__.py
-Solution.py
-Test.py
+.vacode
+
+# Ignore Python cache deps
+__pycache__
+.pytest_cache
+
+# Ignore Node deps
+node_modules
