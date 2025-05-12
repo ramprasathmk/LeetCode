@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/ramprasathmk/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ramprasathmk/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ramprasathmk/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/ramprasathmk/LeetCode/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
@@ -42,4 +43,12 @@
 | [0577-employee-bonus](https://github.com/ramprasathmk/LeetCode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/ramprasathmk/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/ramprasathmk/LeetCode/tree/master/0596-classes-more-than-5-students) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ramprasathmk/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ramprasathmk/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
