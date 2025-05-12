@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/ramprasathmk/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ramprasathmk/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ramprasathmk/LeetCode/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/ramprasathmk/LeetCode/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/ramprasathmk/LeetCode/tree/master/1013-fibonacci-number) |
 | [2752-sum-multiples](https://github.com/ramprasathmk/LeetCode/tree/master/2752-sum-multiples) |
