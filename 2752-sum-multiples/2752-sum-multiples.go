@@ -1,15 +1,24 @@
 func sumOfMultiples(n int) int {
-    // the sum of all integers in the range [1, n] inclusive that are divisible by 3, 5, or 7.
-    multiples := []int{ 3, 5, 7 }
-    // the sum variable to store their sum value
-    sum := 0
-    for i := 1; i <= n ; i++ {
-        for _, num := range multiples {
-            if i%num==0 {
-                sum += i
-                break // Add only once, then skip to next i
-            }
-        }
-    }
-    return sum
+    // multiple of 3, 5, 7
+    a := n / 3
+    b := n / 5
+    c := n / 7
+    // multiples of 3&5, 3&7, 5&7
+    d := n / 15
+    e := n / 21
+    f := n / 35
+    // multiples of 3, 5, & 7
+    g := n / 105
+
+    return (
+        // add single multiples
+        3*a*(a+1) +
+        5*b*(b+1) +
+        7*c*(c+1) -
+        // subtract double multiples
+        15*d*(d+1) -
+        21*e*(e+1) -
+        35*f*(f+1) +
+        // add triple multiples
+        105*g*(g+1)) / 2
 }
