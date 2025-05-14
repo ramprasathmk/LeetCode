@@ -1,5 +1,5 @@
 func singleNumber(nums []int) int {
-    numMap := make(map[int]int, 0)
+    numMap := make(map[int]int)
 
     for _, val := range nums {
         numMap[val]++
