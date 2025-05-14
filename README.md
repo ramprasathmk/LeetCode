@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramprasathmk/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/ramprasathmk/LeetCode/tree/master/0136-single-number) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ramprasathmk/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Sorting
@@ -50,6 +51,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ramprasathmk/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ramprasathmk/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
