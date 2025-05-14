@@ -1,14 +1,7 @@
 func singleNumber(nums []int) int {
-    numMap := make(map[int]int)
-
-    for _, val := range nums {
-        numMap[val]++
+    result := 0
+    for _, num := range nums {
+        result ^= num
     }
-
-    for k, num := range numMap {
-        if num == 1 {
-            return k
-        }
-    }
-    return -1
+    return result
 }
