@@ -1,26 +1,16 @@
 func romanToInt(s string) int {
-	romanNumerals := map[rune]int{
-		'I': 1,
-		'V': 5,
-		'X': 10,
-		'L': 50,
-		'C': 100,
-		'D': 500,
-		'M': 1000,
-	}
+    values := [256]int{'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+    sum := 0
+    prevValue := 0
 
-	sum := 0
-	prev := 0
-
-	for i := len(s) - 1; i >= 0; i-- {
-		curr := romanNumerals[rune(s[i])]
-		if curr < prev {
-			sum -= curr
-		} else {
-			sum += curr
-		}
-		prev = curr
-	}
-
-	return sum
+    for i := 0; i < len(s); i++ {
+        currentValue := values[s[i]]
+        if currentValue > prevValue {
+            sum += currentValue - 2*prevValue
+        } else {
+            sum += currentValue
+        }
+        prevValue = currentValue
+    }
+    return sum
 }
