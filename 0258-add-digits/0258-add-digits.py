@@ -2,7 +2,7 @@ class Solution:
     def addDigits(self, num: int) -> int:
         """
         def addDigits(self, num: int) -> int:
-            Returns the added digit of num upto single unit.
+            Returns an integer `num`, repeatedly add all its digits until the result has only one digit, and return it.
 
         :param num int: number must be positive integer
         :exception: 
