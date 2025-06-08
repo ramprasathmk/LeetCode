@@ -17,7 +17,7 @@ class Solution:
             raise TypeError(type(num), "is not type int, use type int instead.")
 
         if num < 0:
-            return ValueError(f"{num=} is not valid number.")
+            raise ValueError(f"{num=} is not valid number.")
 
         return 0 if num==0 else 1 + (num - 1) % 9
         
