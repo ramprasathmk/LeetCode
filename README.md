@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/ramprasathmk/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/ramprasathmk/LeetCode/tree/master/0136-single-number) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
+| [2102-find-the-middle-index-in-array](https://github.com/ramprasathmk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ramprasathmk/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Sorting
 |  |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ramprasathmk/LeetCode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/ramprasathmk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
