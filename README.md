@@ -27,12 +27,14 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ramprasathmk/LeetCode/tree/master/0069-sqrtx) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ramprasathmk/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramprasathmk/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/ramprasathmk/LeetCode/tree/master/0136-single-number) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ramprasathmk/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/ramprasathmk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ramprasathmk/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Sorting
