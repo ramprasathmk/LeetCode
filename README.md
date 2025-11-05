@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramprasathmk/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/ramprasathmk/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ramprasathmk/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/ramprasathmk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -70,6 +71,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ramprasathmk/LeetCode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/ramprasathmk/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -88,4 +90,8 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ramprasathmk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2102-find-the-middle-index-in-array](https://github.com/ramprasathmk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ramprasathmk/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
