@@ -39,6 +39,7 @@
 | [0238-product-of-array-except-self](https://github.com/ramprasathmk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramprasathmk/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
 | [2102-find-the-middle-index-in-array](https://github.com/ramprasathmk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramprasathmk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ramprasathmk/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0136-single-number](https://github.com/ramprasathmk/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ramprasathmk/LeetCode/tree/master/0231-power-of-two) |
+| [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ramprasathmk/LeetCode/tree/master/0258-add-digits) |
+| [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramprasathmk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Number Theory
 |  |
@@ -98,4 +101,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ramprasathmk/LeetCode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
