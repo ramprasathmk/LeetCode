@@ -39,6 +39,7 @@
 | [0238-product-of-array-except-self](https://github.com/ramprasathmk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramprasathmk/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ramprasathmk/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
 | [2102-find-the-middle-index-in-array](https://github.com/ramprasathmk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramprasathmk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
