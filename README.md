@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ramprasathmk/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ramprasathmk/LeetCode/tree/master/0013-roman-to-integer) |
+| [0771-jewels-and-stones](https://github.com/ramprasathmk/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramprasathmk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/ramprasathmk/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/ramprasathmk/LeetCode/tree/master/0058-length-of-last-word) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0771-jewels-and-stones](https://github.com/ramprasathmk/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
