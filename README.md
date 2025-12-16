@@ -13,6 +13,7 @@
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0728-self-dividing-numbers](https://github.com/ramprasathmk/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/ramprasathmk/LeetCode/tree/master/1013-fibonacci-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ramprasathmk/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/ramprasathmk/LeetCode/tree/master/2752-sum-multiples) |
 ## Hash Table
 |  |
