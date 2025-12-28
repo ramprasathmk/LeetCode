@@ -35,6 +35,7 @@
 | [0069-sqrtx](https://github.com/ramprasathmk/LeetCode/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramprasathmk/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramprasathmk/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ramprasathmk/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramprasathmk/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2102-find-the-middle-index-in-array](https://github.com/ramprasathmk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramprasathmk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ramprasathmk/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ramprasathmk/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ramprasathmk/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Sorting
@@ -118,4 +120,8 @@
 | ------- |
 | [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramprasathmk/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ramprasathmk/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
