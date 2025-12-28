@@ -34,6 +34,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/ramprasathmk/LeetCode/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramprasathmk/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramprasathmk/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ramprasathmk/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ramprasathmk/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramprasathmk/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2102-find-the-middle-index-in-array](https://github.com/ramprasathmk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramprasathmk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ramprasathmk/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -115,4 +117,5 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramprasathmk/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
