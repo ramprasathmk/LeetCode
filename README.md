@@ -22,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/ramprasathmk/LeetCode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/ramprasathmk/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramprasathmk/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/ramprasathmk/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0058-length-of-last-word](https://github.com/ramprasathmk/LeetCode/tree/master/0058-length-of-last-word) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0771-jewels-and-stones](https://github.com/ramprasathmk/LeetCode/tree/master/0771-jewels-and-stones) |
+| [2351-first-letter-to-appear-twice](https://github.com/ramprasathmk/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0136-single-number](https://github.com/ramprasathmk/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ramprasathmk/LeetCode/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
+| [2351-first-letter-to-appear-twice](https://github.com/ramprasathmk/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -123,5 +126,6 @@
 ## Counting
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/ramprasathmk/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ramprasathmk/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
