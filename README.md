@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ramprasathmk/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ramprasathmk/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ramprasathmk/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ramprasathmk/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ramprasathmk/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ramprasathmk/LeetCode/tree/master/0258-add-digits) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ramprasathmk/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/ramprasathmk/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ramprasathmk/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ramprasathmk/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/ramprasathmk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
