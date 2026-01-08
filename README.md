@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramprasathmk/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ramprasathmk/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ramprasathmk/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ramprasathmk/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ramprasathmk/LeetCode/tree/master/0136-single-number) |
@@ -119,6 +120,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ramprasathmk/LeetCode/tree/master/0027-remove-element) |
 | [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
