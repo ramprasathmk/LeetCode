@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ramprasathmk/LeetCode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramprasathmk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ramprasathmk/LeetCode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ramprasathmk/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramprasathmk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/ramprasathmk/LeetCode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
 ## Matrix
@@ -138,4 +140,8 @@
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/ramprasathmk/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ramprasathmk/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramprasathmk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
