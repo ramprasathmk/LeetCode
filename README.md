@@ -41,6 +41,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/ramprasathmk/LeetCode/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramprasathmk/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/ramprasathmk/LeetCode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramprasathmk/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ramprasathmk/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
@@ -55,6 +56,7 @@
 | [0283-move-zeroes](https://github.com/ramprasathmk/LeetCode/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/ramprasathmk/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramprasathmk/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/ramprasathmk/LeetCode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ramprasathmk/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0861-flipping-an-image](https://github.com/ramprasathmk/LeetCode/tree/master/0861-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ramprasathmk/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
