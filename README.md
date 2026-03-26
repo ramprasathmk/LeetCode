@@ -88,6 +88,7 @@
 | [0595-big-countries](https://github.com/ramprasathmk/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/ramprasathmk/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/ramprasathmk/LeetCode/tree/master/0620-not-boring-movies) |
+| [1193-monthly-transactions-i](https://github.com/ramprasathmk/LeetCode/tree/master/1193-monthly-transactions-i) |
 ## Bit Manipulation
 |  |
 | ------- |
