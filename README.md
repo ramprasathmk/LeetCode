@@ -87,6 +87,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ramprasathmk/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ramprasathmk/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/ramprasathmk/LeetCode/tree/master/0596-classes-more-than-5-students) |
+| [0620-not-boring-movies](https://github.com/ramprasathmk/LeetCode/tree/master/0620-not-boring-movies) |
 ## Bit Manipulation
 |  |
 | ------- |
